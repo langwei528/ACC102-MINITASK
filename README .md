@@ -1,7 +1,7 @@
 # 🎵 Genre Investment Analyser
 ### A Data-Driven Tool for Record Label A&R Decision-Making
 
-**🔗 Live App:** [https://acc102-minitask-cnz6volhvpvni7uhngvfun.streamlit.app](https://acc102-minitask-cnz6volhvpvni7uhngvfun.streamlit.app)  
+**🔗 Live App:** [https://acc102-minitask-kg2ysywhkrbxyhdloqizru.streamlit.app/](https://acc102-minitask-kg2ysywhkrbxyhdloqizru.streamlit.app/)  
 **🎥 Demo Video:** *(link to be added after recording)*  
 **📓 Notebook:** `ACC102_Genre_Investment_Analysis_v2.ipynb`
 
